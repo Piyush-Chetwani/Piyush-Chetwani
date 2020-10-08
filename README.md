@@ -1,45 +1,30 @@
-### Hi there 👋
+<h1 align="center">  Hey, Welcome 👋</h1>
 
-<img src="https://github.com/SayantanBanerjee16/SayantanBanerjee16/blob/master/photo/opening.png" width="100%" >
+<img src="https://github.com/Piyush-Chetwani/Piyush-Chetwani/blob/main/header-5120x.jpg" width="100%" >
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Inspiration :blush:
-<span style=“color:green;”> text goes here</span>
-*"What we know is a Drop :droplet:, what we don't know is an Ocean :ocean:!"*
 
-## About Me :sunglasses:
+## About Me 😃
 
-Currently in 3rd year pursuing Integrated B.Tech + M.Tech Information Technology in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/). My aim is to develop applications which would *put a smile* in someone's life.
+Currently in 3rd year pursuing Integrated B.Tech + M.Tech Information Technology in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/). My aim is to write appealing content and develop web applications which would *put a smile* in someone's life.
 
-- :snowflake: Technical Head of both [Uthaan, Journal club of IIITM](https://www.youtube.com/channel/UCcNvKCjKaxqnPX09IXcCKIg) and [Rotaract Club of Youth, IIITM](https://www.instagram.com/rotaractiiitm/?hl=en).
-- :star2: Do read my resume here: [SayantanBanerjee_Resume.pdf](https://drive.google.com/file/d/1jvEaY2G8b2_FssS7lmi0UmnR4X0FJjtt/view?usp=sharing).
-- :fire: Open-source enthusiast. Contributed to [Oppia Android](https://github.com/oppia/oppia-android) having multiple PRs merged.
-- :bulb: Did back to back 2 Start-up Interns in Android Development, in [Ria Webs Solution](https://drive.google.com/file/d/1mGBGrJmZJPvpPdJv1hv56WoZXcevGg8e/view?usp=sharing) and [Cvision.ai Analytics Private Ltd](https://drive.google.com/file/d/1WVcHFJB0KSnpNErpHQPZZKRFyRM5rbUb/view?usp=sharing).
-- :movie_camera: Love bingeing shows and movies based on Science-fiction, Crime, Mystery Thriller. All time favourites are *Dark and Inception*.
-- :black_nib: I have started blogging on [Medium](https://medium.com/@sayantanbanerjee_91303) about Science Fiction and Technical stuffs. Do give a visit.
-- :books: **Languages** - C, C++, Kotlin, Java, Dart, XML.
-- :wrench: **Android Tools** - Jetpack Components, Data Persistence Library, Retrofit, Firebase, Coroutines, SQLite, MLKit. 
-- :gem: **Softwares** - Git, Android Studio, Adobe Photoshop, Adobe Premiere Pro. 
+- :snowflake: Content Writing and Editing Head of [Uthaan, Journalism club of IIITM](https://www.instagram.com/uthaaniiitm/) 🤓.
+- :fire: Creative and Technical Writer, Open-source enthusiast and Web Developer 🤠.
+- :bulb: Ex-Front End Developer intern in [Zubi.io](https://zubi.io/), Ex-Technical Content Writer in [GeeksForGeeks](https://geeksforgeeks.org/)😎.
+- 💬: Ask me about creative writing, appealing stories or front end development 📜.
+- :movie_camera: Love binging drama, thriller, mystery, crime shows and movies and horror ofcourse 👻.
+- :black_nib: Visit my blog on [Medium](https://medium.com/@pcpiyush1106) and watch my directed intro [video](https://www.youtube.com/watch?v=oKdT-4VPFaE&t=32s&ab_channel=Pandora%27sBox) for college 🎬.
+- :books: C, C++, Python, JavaScript, ReactJS and a bit of french too😜. 
+- 👑 Best Blogger in 1st year of college. 2 times Case Study winner 🎓.
+- ⚡ **Fun Fact**: *"Knowledge is like underwear. It is useful to have it, but not necessary to show it off"* 😂.
+- 🌱 **Inspiration**: *"Success is not final, failure is not fatal; it is the courage to continue that counts"* 😊.
+
 
 :heart: Take a look at my repositories and let's get in touch!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##  Follow Me :speech_balloon:
+##  Follow Me 😇
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sayantan%20Banerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayantan-banerjee-19040b175/)](https://www.linkedin.com/in/sayantan-banerjee-19040b175/)    [![Medium Badge](https://img.shields.io/badge/-@SayantanBanerjee-e4405f?style=flat-square&labelColor=f94877&logo=medium&logoColor=white&link=https://medium.com/@sayantanbanerjee_91303)](https://medium.com/@sayantanbanerjee_91303)    [![Gmail Badge](https://img.shields.io/badge/-sayantaninfinity16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayantaninfinity16@gmail.com)](mailto:sayantaninfinity16@gmail.com)    [![Instagram Badge](https://img.shields.io/badge/-@sayantanbanerjee1710-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/sayantanbanerjee1710/)](https://www.instagram.com/sayantanbanerjee1710/)
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-chetwani-5346a516a/)    [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pcpiyush1106)    [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:pcpiyush1106@gmail.com@gmail.com)    [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piyush_chetwani/)
