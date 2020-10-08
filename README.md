@@ -28,7 +28,7 @@ Currently in 3rd year pursuing Integrated B.Tech + M.Tech Information Technology
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://github.com/Piyush-Chetwani/Piyush-Chetwani/blob/main/cf91668f-63bc-4a10-bfa3-d1e707cfeffc.gif" align="right">
 
-##  Follow Me 😇
+##  Connect with Me 😇
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-chetwani-5346a516a/)    [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pcpiyush1106)    [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:pcpiyush1106@gmail.com@gmail.com)    [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piyush_chetwani/)
 
